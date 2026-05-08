@@ -12,7 +12,7 @@ A focused SwiftUI demo showing how to handle every empty-state scenario your app
 - **Action-driven** — The optional `actions` closure lets you surface a clear next step (add an item, clear a filter) right inside the empty state.
 
 ## 📺 Watch on YouTube
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=PLACEHOLDER)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/FeNIGjSpaCo)
 
 > This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding97).
 
@@ -51,4 +51,4 @@ Change `com.ndcswift.ContentUnavailableView` to a reverse-domain ID you own, the
 
 ---
 
-📺 [Watch the guide on YouTube](https://youtube.com/watch?v=PLACEHOLDER)
+📺 [Watch the guide on YouTube](https://youtu.be/FeNIGjSpaCo)
